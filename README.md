@@ -6,7 +6,7 @@
  
  ## Data set : 
   the Data set was the csv file from Kaggle consisting of news articles and posted between 2015-2018. Two sets of data were used, one consisting of all fake news, and another     of all real news. The overall format and columns were the same across both datasets.
-  The colonnes in the data was :
+  The colonnes in the data was
     Id,  title, author,	text, 	label
     
  ## Data Pipline :
