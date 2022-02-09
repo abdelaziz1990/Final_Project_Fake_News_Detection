@@ -21,8 +21,8 @@
     TF-IDF vectorizer
     vectorizer with TF-IDF transformer
     Machine learning model training and verification
- ## Some Results : 
-  ## EDA : 
+ ## Results : 
+ ## EDA : 
  <img width="326" alt="image" src="https://user-images.githubusercontent.com/89710477/153179777-432b2fcf-2504-4ebf-906f-a1ba1d204f8b.png">
         The count of most frequent word in Merge Column :
  <img width="435" alt="image" src="https://user-images.githubusercontent.com/89710477/153180271-33df28fb-2162-423c-9606-cf15408f4ad6.png">
