@@ -24,8 +24,8 @@
  ## Results : 
  ## EDA : 
   
- WordCloud, the count of most frequent word in Merge Column :                                             
  
- <img width="323" alt="Capture d’écran 2022-02-10 115340" src="https://user-images.githubusercontent.com/89710477/153392607-5f0a04ba-c723-4889-b05b-d45cc146069e.png"> <img width="435" alt="image" src="https://user-images.githubusercontent.com/89710477/153180271-33df28fb-2162-423c-9606-cf15408f4ad6.png">
+ <img width="323" alt="Capture d’écran 2022-02-10 115340" src="https://user-images.githubusercontent.com/89710477/153392607-5f0a04ba-c723-4889-b05b-d45cc146069e.png"> <img width="435" alt="image" src="https://user-images.githubusercontent.com/89710477/153180271-33df28fb-2162-423c-9606-cf15408f4ad6.png"><img width="398" alt="Capture d’écran 2022-02-10 115913" src="https://user-images.githubusercontent.com/89710477/153395179-e240389c-f1e6-448d-a827-4c90ca1aa0de.png">
+
 
  
