@@ -30,7 +30,7 @@
  <img width="256" alt="Capture d’écran 2022-02-10 122832" src="https://user-images.githubusercontent.com/89710477/153399917-2bb2d04c-2fb9-488f-b6b7-026a6e2ccec0.png">![image](https://user-images.githubusercontent.com/89710477/153402282-ce4fd7ad-a02c-4c7f-976c-7f194d5d4f87.png)
                     ![Image1](https://user-images.githubusercontent.com/89710477/153400898-fa642c74-c29a-4a39-a26a-b42490353097.png)
   ## Multinomial Naive Bayes :
-![image](https://user-images.githubusercontent.com/89710477/153401227-49834fa9-1cdf-48a4-8026-696031436d14.png) ![image](https://user-images.githubusercontent.com/89710477/153401323-097b4778-c23b-455a-b4c8-95ed2c17e458.png) ![image](https://user-images.githubusercontent.com/89710477/153401454-5f4312ac-830f-45c0-abb0-cdaa524b5738.png)
+<img width="248" alt="Capture d’écran 2022-02-10 122832" src="https://user-images.githubusercontent.com/89710477/153403286-72142472-2497-4abd-acf8-3b71332ee402.png">  ![image](https://user-images.githubusercontent.com/89710477/153401323-097b4778-c23b-455a-b4c8-95ed2c17e458.png) ![image](https://user-images.githubusercontent.com/89710477/153401454-5f4312ac-830f-45c0-abb0-cdaa524b5738.png)
   ## Decision Tree Classifier :
   ![image](https://user-images.githubusercontent.com/89710477/153401857-a99f09ac-f879-46a8-a71b-c9131ef5c126.png)![image](https://user-images.githubusercontent.com/89710477/153401896-8d90dc1e-b83b-437f-a611-e71a087a6ded.png)
 ![image](https://user-images.githubusercontent.com/89710477/153402092-de9b744c-ccf2-4363-9448-a8269362c5d2.png)
